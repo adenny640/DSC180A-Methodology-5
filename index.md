@@ -1,2 +1,2 @@
 # My site
-### Alex Denny (amdenny@ucsd.edu)
+Alex Denny (amdenny@ucsd.edu)
